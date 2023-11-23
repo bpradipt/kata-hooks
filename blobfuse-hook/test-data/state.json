@@ -1,0 +1,8 @@
+{
+    "ociVersion": "1.1.0-rc.2 ",
+    "id": "e2e8141bbbeec1f194bc98e109dc18226f7687d0e358156c8e135af2454e5e9a",
+    "status": "created",
+    "pid": 1089,
+    "bundle": "/run/kata-containers/e2e8141bbbeec1f194bc98e109dc18226f7687d0e358156c8e135af2454e5e9a",
+    "annotations": {}
+}
